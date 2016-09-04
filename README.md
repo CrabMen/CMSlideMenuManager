@@ -1,0 +1,2 @@
+# CMSlideMenuManager
+纺织QQ的效果，简单封装的一个侧边栏效果，同时可以跟TabBarController同时共存，可以指定某个tabbar的子试图控制器可以有滑动效果.
